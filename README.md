@@ -1,1 +1,2 @@
-You can get codeforces problems by even switching off tags
+🚀 Codeforces Problem Finder
+Searches Codeforces problems by desired tags, you can even switch off tags, and rating.
